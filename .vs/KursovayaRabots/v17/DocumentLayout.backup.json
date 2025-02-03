@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|c:\\users\\ilia\\desktop\\kursovayarabots\\kursovayarabots\\selectjournalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|solutionrelative:kursovayarabots\\selectjournalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|c:\\users\\ilia\\desktop\\kursovayarabots\\kursovayarabots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|solutionrelative:kursovayarabots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|c:\\users\\ilia\\desktop\\kursovayarabots\\kursovayarabots\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|solutionrelative:kursovayarabots\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|c:\\users\\ilia\\desktop\\kursovayarabots\\kursovayarabots\\managecheckoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|solutionrelative:kursovayarabots\\managecheckoutsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|c:\\users\\ilia\\desktop\\kursovayarabots\\kursovayarabots\\importexportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AA1841-C0A4-45D1-B9A1-93B8CBD72E62}|KursovayaRabots\\KursovayaRabots.csproj|solutionrelative:kursovayarabots\\importexportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectJournalForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\SelectJournalForm.cs",
+              "RelativeDocumentMoniker": "KursovayaRabots\\SelectJournalForm.cs",
+              "ToolTip": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\SelectJournalForm.cs",
+              "RelativeToolTip": "KursovayaRabots\\SelectJournalForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:27:14.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\Program.cs",
+              "RelativeDocumentMoniker": "KursovayaRabots\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\Program.cs",
+              "RelativeToolTip": "KursovayaRabots\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:26:22.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageUsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\ManageUsersForm.cs",
+              "RelativeDocumentMoniker": "KursovayaRabots\\ManageUsersForm.cs",
+              "ToolTip": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\ManageUsersForm.cs",
+              "RelativeToolTip": "KursovayaRabots\\ManageUsersForm.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAMYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:26:12.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageCheckoutsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\ManageCheckoutsForm.cs",
+              "RelativeDocumentMoniker": "KursovayaRabots\\ManageCheckoutsForm.cs",
+              "ToolTip": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\ManageCheckoutsForm.cs*",
+              "RelativeToolTip": "KursovayaRabots\\ManageCheckoutsForm.cs*",
+              "ViewState": "AgIAAKYCAAAAAAAAAAAAALECAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:20:36.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportExportForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\ImportExportForm.cs",
+              "RelativeDocumentMoniker": "KursovayaRabots\\ImportExportForm.cs",
+              "ToolTip": "C:\\Users\\Ilia\\Desktop\\KursovayaRabots\\KursovayaRabots\\ImportExportForm.cs",
+              "RelativeToolTip": "KursovayaRabots\\ImportExportForm.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAgwKYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:17:26.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
